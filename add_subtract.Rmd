@@ -1,0 +1,26 @@
+---
+title: "Addition and Subtraction"
+author: "Ritisha Sharma"
+date: "2022-09-26"
+output: "html_document"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Addition
+
+We can find the sum of two numbers by using the "+" symbol. For example, `15 + 20` should return 35.
+
+```{r}
+15 + 20
+```
+
+## Subtraction 
+
+To find the difference between two numbers, we can use the "-" symbol. For example, `60 - 20` should return 40.
+
+```{r}
+60 - 20
+```
