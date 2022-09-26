@@ -1,0 +1,26 @@
+---
+title: "Addition and Subtraction"
+author: "Ritisha Sharma"
+date: "2022-09-26"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+###  Addition
+
+We can get the sum of two numbers using the "+" symbol. An example would be 2+2=4.
+
+```{r}
+5 + 6
+```
+
+### Subtraction 
+
+To get the difference between two numbers, we should use the "-" symbol. An example would be 2-2=0.
+
+```{r}
+5 - 6
+```
